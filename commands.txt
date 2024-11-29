@@ -10,3 +10,7 @@ chmod +x ./install
 sudo apt install curl
 ./install
 
+g++ x.cpp -o x -I/usr/include/GL -lgL -lGLU -lglut
+
+
+
