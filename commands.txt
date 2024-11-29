@@ -1,0 +1,12 @@
+VS CODE
+
+blackbox
+CTRL + L
+
+sudo apt install git
+git clone https://github.com/aandrew-me/tgpt.git
+cd tgpt
+chmod +x ./install
+sudo apt install curl
+./install
+
